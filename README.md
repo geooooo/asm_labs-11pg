@@ -1,1 +1,1 @@
-# Мои лабы по ассемблеру 11-ПГ
+Labs for assembler course - 1 course, 11PG group
